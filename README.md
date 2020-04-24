@@ -1,4 +1,4 @@
-# Prueba_de_Diagnostico_CompuParalela
+# Prueba Diagnostico Computacion Paraleta y Dsitribuida
 Resolucion a Prueba de Diagnostico de Computacion Paralela y Distribuida Semestre 1, 2020 UTEM
 
 ## Ejercicio 1
